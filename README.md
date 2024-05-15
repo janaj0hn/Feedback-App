@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-# feedbackapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Feedback-App
->>>>>>> 6e701fd576cb55c506e48321ca26412eedf858d3
+it simple feedback app.
+in my school time i attend science exhibition. all students are writing projects feedback using pen and paper then collect and count how many feeds its lot of work right to choice winner!. so that time i decided make one app for that.
+finally here
